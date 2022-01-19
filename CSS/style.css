@@ -5,7 +5,8 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: url(/PICTURE/girl-3253532_1920.jpg);
+    /* background: url(/PICTURE/girl-3253532_1920.jpg); */
+    background-image: url('/PICTURE/girl-3253532_1920.jpg');
 }
 #left{
     /* border: 2px solid red; */
